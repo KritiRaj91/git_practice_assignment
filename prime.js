@@ -7,7 +7,7 @@
                 break;
             }
         }
-           {
+        if(a){
             console.log("Yes");
         }
         else{
